@@ -71,7 +71,26 @@ int main() {
     float PIBC1;
     int PontoC1;
 
-    
+    char CodigoC2[4] = "C02";
+    char NomeC2[30];
+    int PopulaçãoC2;
+    float AreaC2;
+    float PIBC2;
+    int PontoC2;
+
+    char CodigoC3[4] = "C03";
+    char NomeC3[30];
+    int PopulaçãoC3;
+    float AreaC3;
+    float PIBC3;
+    int PontoC3;
+
+    char CodigoC4[4] = "C04";
+    char NomeC4[30];
+    int PopulaçãoC4;
+    float AreaC4;
+    float PIBC4;
+    int PontoC4;
 
 
 
