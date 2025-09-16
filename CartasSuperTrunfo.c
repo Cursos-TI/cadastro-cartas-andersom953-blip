@@ -27,6 +27,13 @@ int main() {
     float PIBA3;
     int PontoA3;
 
+    char CodigoA4[4] = "A04";
+    char NomeA4[30];
+    int PopulaçãoA4;
+    float AreaA4;
+    float PIBA4;
+    int PontoA4;
+
     printf("\n---Digite os dados da primeira carta ---\n");
     
     printf("Digite o Nome da Cidade: ");
