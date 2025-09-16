@@ -30,6 +30,13 @@ int main() {
     printf("Digite a Area: ");
     scanf("%f", &Area);
 
+    printf("Digite o PIB: ");
+    scanf("%f", &PIB);
+
+    
+  
+  )
+
   
 
 
