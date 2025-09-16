@@ -126,7 +126,7 @@ int main() {
     int PontoD4;
 
     char EstadoE1 = 'E';
-    
+
     char CodigoE1 = "E01";
     char NomeE1[30];
     int PopulaçãoE1;
@@ -155,8 +155,35 @@ int main() {
     float PIBE4;
     int PontoE4;
 
+    char EstadoE1 = 'F';
 
+    char CodigoF1 = "F01";
+    char NomeF1[30];
+    int PopulaçãoF1;
+    float AreaF1;
+    float PIBF1;
+    int PontoF1;
 
+    char CodigoF2 = "F02";
+    char NomeF2[30];
+    int PopulaçãoF2;
+    float AreaF2;
+    float PIBF2; 
+    int PontoF2;
+
+    char CodigoF3 = "F03";
+    char NomeF3[30];
+    int PopulaçãoF3;
+    float AreaF3;
+    float PIBF3;
+    int PontoF3;
+
+    char CodigoF4 = "F04";
+    char NomeF4[30];
+    int PopulaçãoF4;
+    float AreaF4;
+    float PIBF4;
+    int PontoF4;
 
 
 
