@@ -249,7 +249,7 @@ int main() {
     printf("\n--- Digite os dados da primeira carta ---\n");
     
     printf("Digite o Nome da Cidade: ");
-    scanf("%s", &NomeA1);
+    scanf("%s", NomeA1);
 
     printf("Digite a População: ");
     scanf("%d", &PopulaçãoA1);
