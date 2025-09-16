@@ -6,6 +6,7 @@
 
 int main() {
     char EstadoA1 = 'A';
+
     char CodigoA1[4] = "A01";
     char NomeA1[30];
     int PopulaçãoA1;
@@ -35,6 +36,7 @@ int main() {
     int PontoA4;
 
     char EstadoB1 = 'B';
+
     char CodigoB1[4] = "B01";
     char NomeB1[30];
     int PopulaçãoB1;
@@ -64,6 +66,7 @@ int main() {
     int PontoB4;
 
     char EstadoC1 = 'C';
+
     char CodigoC1[4] = "C01";
     char NomeC1[30];
     int PopulaçãoC1;
@@ -93,6 +96,7 @@ int main() {
     int PontoC4;
 
     char EstadoD1 = 'D';
+
     char CodigoD1[4] = "D01";
     char NomeD1[30];
     int PopulaçãoD1;
@@ -122,6 +126,7 @@ int main() {
     int PontoD4;
 
     char EstadoE1 = 'E';
+    
     char CodigoE1 = "E01";
     char NomeE1[30];
     int PopulaçãoE1;
@@ -149,7 +154,9 @@ int main() {
     float AreaE4;
     float PIBE4;
     int PontoE4;
-    
+
+
+
 
 
 
