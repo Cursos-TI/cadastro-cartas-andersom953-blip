@@ -19,8 +19,11 @@ int main() {
     scanf("%s", &Estado);
 
     printf("Digite o Codigo (ex: A01,B03: ");
-    scanf ("s", &Codigo);
-       
+    scanf ("%s", &Codigo);
+
+    prinf("Digite o Nome da Cidade: ");
+    scanf("%s", &Nome);
+
   
 
 
