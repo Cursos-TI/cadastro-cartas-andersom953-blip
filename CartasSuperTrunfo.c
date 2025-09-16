@@ -8,6 +8,11 @@ int main() {
     char Estado;
     char Codigo;
     char Nome [30];
+    int População;
+    float Area;
+    float PIB;
+    int Ponto;
+    
 
   // Área para entrada de dados
 
