@@ -297,6 +297,28 @@ int main() {
     printf("Digite o número de Pontos Turísticos: ");
     scanf("%d", &PontoA3);
 
+    printf("\n--- Digite os dados da quarta carta ---\n");
+
+    printf("Digite o Nome da Cidade: ");
+    scanf("%s", &NomeA4);
+
+    printf("Digite a População: ");
+    scanf("%d", &PopulaçãoA4);
+
+    printf("Digite a Área: ");
+    scanf("%f", &AreaA4);
+
+    printf("Digite o PIB: ");
+    scanf("%f", &PIBA4);
+
+    printf("Digite o número de Pontos Turísticos: ");
+    scanf("%d", &PontoA4);
+
+    printf("\n--- Estado A Concluido! ---\n");
+
+    printf("\n--- Estado B ---\n");
+    printf("\n--- Digite os dados da primeira carta ---\n");
+
 
 
 
