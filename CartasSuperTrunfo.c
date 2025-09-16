@@ -5,45 +5,39 @@
 // Objetivo: No nível novato você deve criar as cartas representando as cidades utilizando scanf para entrada de dados e printf para exibir as informações.
 
 int main() {
-    char Estado;
-    char Codigo[10];
-    char Nome [30];
-    int População;
-    float Area;
-    float PIB;
-    int Ponto;
+    char EstadoA1 = 'A';
+    char CodigoA1[4] = "A01";
+    char NomeA1 [30];
+    int PopulaçãoA1;
+    float AreaA1;
+    float PIBA1;
+    int PontoA1;
 
     printf("\n---Digite os dados da primeira carta ---\n");
-
-    printf("Digite o Estado (de A a H): ");
-    scanf("%s", &Estado);
-
-    printf("Digite o Codigo (ex: A01,B03): ");
-    scanf ("%s", &Codigo);
-
+    
     printf("Digite o Nome da Cidade: ");
-    scanf("%s", &Nome);
+    scanf("%s", &NomeA1);
 
     printf("Digite a População: ");
-    scanf("%d", &População);
+    scanf("%d", &PopulaçãoA1);
 
     printf("Digite a Area: ");
-    scanf("%f", &Area);
+    scanf("%f", &AreaA1);
 
     printf("Digite o PIB: ");
-    scanf("%f", &PIB);
+    scanf("%f", &PIBA1);
 
     printf("Digite o número de Pontos Turísticos: ");
-    scanf ("%d", &Ponto);
+    scanf ("%d", &PontoA1);
 
-    printf("\n--- Dados da Carta 1 ---\n");
-    printf("Estado: %c\n", Estado);
-    printf("Código: %s\n", Codigo);
-    printf("Nome da Cidade: %s\n", Nome);
-    printf("População: %d\n", População);
-    printf("Área: %.2f km²\n", Area);
-    printf("PIB: %2.f bilhões de reais\n", PIB);
-    printf("Número de Pontos Turísticos: %d", Ponto);
+    printf("\n--- Dados da Carta A01 ---\n");
+    printf("Estado: %c\n", EstadoA1);
+    printf("Código: %s\n", CodigoA1);
+    printf("Nome da Cidade: %s\n", NomeA1);
+    printf("População: %d\n", PopulaçãoA1);
+    printf("Área: %.2f km²\n", AreaA1);
+    printf("PIB: %2.f bilhões de reais\n", PIBA1);
+    printf("Número de Pontos Turísticos: %d", PontoA1);
 
     
 
