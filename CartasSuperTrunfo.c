@@ -6,12 +6,14 @@
 
 int main() {
     char Estado;
-    char Codigo;
+    char Codigo[10];
     char Nome [30];
     int População;
     float Area;
     float PIB;
     int Ponto;
+
+    printf("\n---Digite os dados da primeira carta ---\n");
 
     printf("Digite o Estado (de A a H): ");
     scanf("%s", &Estado);
@@ -36,7 +38,7 @@ int main() {
 
     printf("\n--- Dados da Carta 1 ---\n");
     printf("Estado: %c\n", Estado);
-    printf("Código: %c\n", Codigo);
+    printf("Código: %s\n", Codigo);
     printf("Nome da Cidade: %s\n", Nome);
     printf("População: %d\n", População);
     printf("Área: %.2f km²\n", Area);
