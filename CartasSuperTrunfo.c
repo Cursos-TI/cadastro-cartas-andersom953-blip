@@ -17,7 +17,10 @@ int main() {
 
     printf("Digite o Estado (de A a H): ");
     scanf("%s", &Estado);
-    
+
+    printf("Digite o Codigo (ex: A01,B03: ");
+    scanf ("s", &Codigo);
+       
   
 
 
