@@ -93,7 +93,22 @@ int main() {
     int PontoC4;
 
     char EstadoD1 = 'D';
+    char CodigoD1[4] = "D01";
+    char NomeD1[30];
+    int PopulaçãoD1;
+    float AreaD1;
+    float PIBD1;
+    int PontoD1;
+
+    char CodigoD2[4] = "D02";
+    char NomeD2[30];
+    int PopulaçãoD2;
+    float AreaD2;
+    float PIBD2;
+    int PontoD2;
+
     
+
 
 
 
