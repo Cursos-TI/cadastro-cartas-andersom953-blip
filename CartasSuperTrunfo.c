@@ -678,7 +678,7 @@ int main() {
 
     printf("\n--- Estado G ---\n");
 
-     printf("\n--- Digite os dados da primeira carta ---\n");
+    printf("\n--- Digite os dados da primeira carta ---\n");
 
     printf("Digite o Nome da Cidade: ");
     scanf("%s", &NomeG1);
@@ -749,6 +749,23 @@ int main() {
     printf("\n--- Estado G Concluido! ---\n");
 
     printf("\n--- Estado H ---\n");
+
+    printf("\n--- Digite os dados da primeira carta ---\n");
+
+    printf("Digite o Nome da Cidade: ");
+    scanf("%s", &NomeH1);
+
+    printf("Digite a População: ");
+    scanf("%d", &PopulaçãoH1);
+
+    printf("Digite a Área: ");
+    scanf("%f", &AreaH1);
+
+    printf("Digite o PIB: ");
+    scanf("%f", &PIBH1);
+
+    printf("Digite o número de Pontos Turísticos: ");
+    scanf("%d", &PontoH1);
 
 
 
