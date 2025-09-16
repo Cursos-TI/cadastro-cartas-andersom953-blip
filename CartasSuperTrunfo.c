@@ -127,64 +127,123 @@ int main() {
 
     char EstadoE1 = 'E';
 
-    char CodigoE1 = "E01";
+    char CodigoE1[4] = "E01";
     char NomeE1[30];
     int PopulaçãoE1;
     float AreaE1;
     float PIBE1;
     int PontoE1;
 
-    char CodigoE2 = "E02";
+    char CodigoE2[4] = "E02";
     char NomeE2[30];
     int PopulaçãoE2;
     float AreaE2;
     float PIBE2; 
     int PontoE2;
 
-    char CodigoE3 = "E03";
+    char CodigoE3[4] = "E03";
     char NomeE3[30];
     int PopulaçãoE3;
     float AreaE3;
     float PIBE3;
     int PontoE3;
 
-    char CodigoE4 = "E04";
+    char CodigoE4[4] = "E04";
     char NomeE4[30];
     int PopulaçãoE4;
     float AreaE4;
     float PIBE4;
     int PontoE4;
 
-    char EstadoE1 = 'F';
+    char EstadoF1 = 'F';
 
-    char CodigoF1 = "F01";
+    char CodigoF1[4] = "F01";
     char NomeF1[30];
     int PopulaçãoF1;
     float AreaF1;
     float PIBF1;
     int PontoF1;
 
-    char CodigoF2 = "F02";
+    char CodigoF2[4] = "F02";
     char NomeF2[30];
     int PopulaçãoF2;
     float AreaF2;
     float PIBF2; 
     int PontoF2;
 
-    char CodigoF3 = "F03";
+    char CodigoF3[4] = "F03";
     char NomeF3[30];
     int PopulaçãoF3;
     float AreaF3;
     float PIBF3;
     int PontoF3;
 
-    char CodigoF4 = "F04";
+    char CodigoF4[4] = "F04";
     char NomeF4[30];
     int PopulaçãoF4;
     float AreaF4;
     float PIBF4;
     int PontoF4;
 
+    char EstadoG1 = 'G';
+
+    char CodigoG1[4] = "G01";
+    char NomeG1[30];
+    int PopulaçãoG1;
+    float AreaG1;
+    float PIBG1;
+    int PontoG1;
+
+    char CodigoG2[4] = "G02";
+    char NomeG2[30];
+    int PopulaçãoG2;
+    float AreaG2;
+    float PIBG2; 
+    int PontoG2;
+
+    char CodigoG3[4] = "G03";
+    char NomeG3[30];
+    int PopulaçãoG3;
+    float AreaG3;
+    float PIBG3;
+    int PontoG3;
+
+    char CodigoG4[4] = "G04";
+    char NomeG4[30];
+    int PopulaçãoG4;
+    float AreaG4;
+    float PIBG4;
+    int PontoG4;
+
+    char EstadoH1 = 'H';
+
+    char CodigoH1[4] = "H01";
+    char NomeH1[30];
+    int PopulaçãoH1;
+    float AreaH1;
+    float PIBH1;
+    int PontoH1;
+
+    char CodigoH2[4] = "H02";
+    char NomeH2[30];
+    int PopulaçãoH2;
+    float AreaH2;
+    float PIBH2;
+    int PontoH2;
+
+    char CodigoH3[4] = "H03";
+    char NomeH3[30];
+    int PopulaçãoH3;
+    float AreaH3;
+    float PIBH3;
+    int PontoH3;
+
+    char CodigoH4[4] = "H04";
+    char NomeH4[30];
+    int PopulaçãoH4;
+    float AreaH4;
+    float PIBH4;
+    int PontoH4;
 
 
 
