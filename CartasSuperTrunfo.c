@@ -820,7 +820,7 @@ int main() {
 
     printf("\n--- Estado H Concluido! ---\n");
 
-    printf("\n--- Estado A ---\n);
+    printf("\n--- Estado A ---\n");
     
     printf("\n--- Dados da Carta A01 ---\n");
     printf("Estado: %c\n", EstadoA1);
@@ -858,7 +858,43 @@ int main() {
     printf("PIB: %2.f bilhões de reais\n", PIBA4);
     printf("Número de Pontos Turísticos: %d", PontoA4);
 
+    printf("\n--- Estado B ---\n");
 
+    printf("\n--- Dados da Carta B01 ---\n");
+    printf("Estado: %c\n", EstadoB1);
+    printf("Código: %s\n", CodigoB1);
+    printf("Nome da Cidade: %s\n", NomeB1);
+    printf("População: %d\n", PopulaçãoB1);
+    printf("Área: %.2f km²\n", AreaB1);
+    printf("PIB: %2.f bilhões de reais\n", PIBB1);
+    printf("Número de Pontos Turísticos: %d", PontoB1);
+
+    printf("\n--- Dados da Carta B02 ---\n");
+    printf("Estado: %c\n", EstadoB1);
+    printf("Código: %s\n", CodigoB2);
+    printf("Nome da Cidade: %s\n", NomeB2);
+    printf("População: %d\n", PopulaçãoB2);
+    printf("Área: %.2f km²\n", AreaB2);
+    printf("PIB: %2.f bilhões de reais\n", PIBB2);
+    printf("Número de Pontos Turísticos: %d", PontoB2);
+
+    printf("\n--- Dados da Carta B03 ---\n");
+    printf("Estado: %c\n", EstadoB1);
+    printf("Código: %s\n", CodigoB3);
+    printf("Nome da Cidade: %s\n", NomeB3);
+    printf("População: %d\n", PopulaçãoB3);
+    printf("Área: %.2f km²\n", AreaB3);
+    printf("PIB: %2.f bilhões de reais\n", PIBB3);
+    printf("Número de Pontos Turísticos: %d", PontoB3);
+
+    printf("\n--- Dados da Carta B04 ---\n");
+    printf("Estado: %c\n", EstadoB1);
+    printf("Código: %s\n", CodigoB4);
+    printf("Nome da Cidade: %s\n", NomeB4);
+    printf("População: %d\n", PopulaçãoB4);
+    printf("Área: %.2f km²\n", AreaB4);
+    printf("PIB: %2.f bilhões de reais\n", PIBB4);
+    printf("Número de Pontos Turísticos: %d", PontoB4);
 
 
     
