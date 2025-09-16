@@ -7,11 +7,18 @@
 int main() {
     char EstadoA1 = 'A';
     char CodigoA1[4] = "A01";
-    char NomeA1 [30];
+    char NomeA1[30];
     int PopulaçãoA1;
     float AreaA1;
     float PIBA1;
     int PontoA1;
+
+    char CodigoA2[4] = "A02";
+    char NomeA2[30];
+    int PopulaçãoA2;
+    float AreaA2;
+    float PIBA2;
+    int PontoA2;
 
     printf("\n---Digite os dados da primeira carta ---\n");
     
@@ -29,6 +36,11 @@ int main() {
 
     printf("Digite o número de Pontos Turísticos: ");
     scanf ("%d", &PontoA1);
+
+
+
+
+
 
     printf("\n--- Dados da Carta A01 ---\n");
     printf("Estado: %c\n", EstadoA1);
