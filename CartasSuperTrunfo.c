@@ -24,6 +24,11 @@ int main() {
     prinf("Digite o Nome da Cidade: ");
     scanf("%s", &Nome);
 
+    printf("Digite a População: ");
+    scanf("%d", &População);
+
+    
+
   
 
 
