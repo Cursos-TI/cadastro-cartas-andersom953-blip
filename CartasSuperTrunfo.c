@@ -608,6 +608,23 @@ int main() {
 
     printf("\n--- Digite os dados da primeira carta ---\n");
 
+    printf("Digite o Nome da Cidade: ");
+    scanf("%s", &NomeF1);
+
+    printf("Digite a População: ");
+    scanf("%d", &PopulaçãoF1);
+
+    printf("Digite a Área: ");
+    scanf("%f", &AreaF1);
+
+    printf("Digite o PIB: ");
+    scanf("%f", &PIBF1);
+
+    printf("Digite o número de Pontos Turísticos: ");
+    scanf("%d", &PontoF1);
+
+    printf("\n--- Digite os dados da segunda carta ---\n");
+
     printf("\n--- Dados da Carta A01 ---\n");
     printf("Estado: %c\n", EstadoA1);
     printf("Código: %s\n", CodigoA1);
