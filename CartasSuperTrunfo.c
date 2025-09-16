@@ -42,6 +42,28 @@ int main() {
     float PIBB1;
     int PontoB1;
 
+    char CodigoB2[4] = "B02";
+    char NomeB2[30];
+    int PopulaçãoB2;
+    float AreaB2;
+    float PIBB2;
+    int PontoB2;
+
+    char CodigoB3[4] = "B03";
+    char NomeB3[30];
+    int PopulaçãoB3;
+    float AreaB3;
+    float PIBB3;
+    int PontoB3;
+
+    char CodigoB4[4] = "B04";
+    char NomeB4[30];
+    int PopulaçãoB4;
+    float AreaB4;
+    float PIBB4;
+    int PontoB4;
+    
+
 
     printf("\n---Digite os dados da primeira carta ---\n");
     
