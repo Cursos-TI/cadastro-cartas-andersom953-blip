@@ -62,7 +62,17 @@ int main() {
     float AreaB4;
     float PIBB4;
     int PontoB4;
+
+    char EstadoC1 = 'C';
+    char CodigoC1[4] = "C01";
+    char NomeC1[30];
+    int PopulaçãoC1;
+    float AreaC1;
+    float PIBC1;
+    int PontoC1;
+
     
+
 
 
     printf("\n---Digite os dados da primeira carta ---\n");
