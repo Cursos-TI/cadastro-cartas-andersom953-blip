@@ -92,6 +92,9 @@ int main() {
     float PIBC4;
     int PontoC4;
 
+    char EstadoD1 = 'D';
+    
+
 
 
     printf("\n---Digite os dados da primeira carta ---\n");
