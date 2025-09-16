@@ -840,6 +840,25 @@ int main() {
     printf("PIB: %2.f bilhões de reais\n", PIBA2);
     printf("Número de Pontos Turísticos: %d", PontoA2);
 
+    printf("\n--- Dados da Carta A03 ---\n");
+    printf("Estado: %c\n", EstadoA1);
+    printf("Código: %s\n", CodigoA3);
+    printf("Nome da Cidade: %s\n", NomeA3);
+    printf("População: %d\n", PopulaçãoA3);
+    printf("Área: %.2f km²\n", AreaA3);
+    printf("PIB: %2.f bilhões de reais\n", PIBA3);
+    printf("Número de Pontos Turísticos: %d", PontoA3);
+
+    printf("\n--- Dados da Carta A04 ---\n");
+    printf("Estado: %c\n", EstadoA1);
+    printf("Código: %s\n", CodigoA4);
+    printf("Nome da Cidade: %s\n", NomeA4);
+    printf("População: %d\n", PopulaçãoA4);
+    printf("Área: %.2f km²\n", AreaA4);
+    printf("PIB: %2.f bilhões de reais\n", PIBA4);
+    printf("Número de Pontos Turísticos: %d", PontoA4);
+
+
 
 
     
