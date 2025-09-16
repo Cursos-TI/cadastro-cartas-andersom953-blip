@@ -6,6 +6,8 @@
 
 int main() {
     char Estado;
+    char Codigo;
+    char Nome [30];
 
   // Área para entrada de dados
 
