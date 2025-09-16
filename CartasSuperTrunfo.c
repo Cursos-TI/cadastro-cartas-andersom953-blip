@@ -13,15 +13,13 @@ int main() {
     float PIB;
     int Ponto;
 
-    printf("\n--- Agora digite os dados da primeira carta---\n");
-
     printf("Digite o Estado (de A a H): ");
     scanf("%s", &Estado);
 
-    printf("Digite o Codigo (ex: A01,B03: ");
+    printf("Digite o Codigo (ex: A01,B03): ");
     scanf ("%s", &Codigo);
 
-    prinf("Digite o Nome da Cidade: ");
+    printf("Digite o Nome da Cidade: ");
     scanf("%s", &Nome);
 
     printf("Digite a População: ");
@@ -36,12 +34,9 @@ int main() {
     printf("Digite o número de Pontos Turísticos: ");
     scanf ("%d", &Ponto);
 
-    
-
-
     printf("\n--- Dados da Carta 1 ---\n");
     printf("Estado: %c\n", Estado);
-    printf("Código: %s\n", Codigo);
+    printf("Código: %c\n", Codigo);
     printf("Nome da Cidade: %s\n", Nome);
     printf("População: %d\n", População);
     printf("Área: %.2f km²\n", Area);
