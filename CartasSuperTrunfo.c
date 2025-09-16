@@ -820,6 +820,8 @@ int main() {
 
     printf("\n--- Estado H Concluido! ---\n");
 
+    printf("\n--- Estado A ---\n);
+    
     printf("\n--- Dados da Carta A01 ---\n");
     printf("Estado: %c\n", EstadoA1);
     printf("Código: %s\n", CodigoA1);
@@ -828,6 +830,17 @@ int main() {
     printf("Área: %.2f km²\n", AreaA1);
     printf("PIB: %2.f bilhões de reais\n", PIBA1);
     printf("Número de Pontos Turísticos: %d", PontoA1);
+
+    printf("\n--- Dados da Carta A02 ---\n");
+    printf("Estado: %c\n", EstadoA1);
+    printf("Código: %s\n", CodigoA2);
+    printf("Nome da Cidade: %s\n", NomeA2);
+    printf("População: %d\n", PopulaçãoA2);
+    printf("Área: %.2f km²\n", AreaA2);
+    printf("PIB: %2.f bilhões de reais\n", PIBA2);
+    printf("Número de Pontos Turísticos: %d", PontoA2);
+
+
 
     
 
