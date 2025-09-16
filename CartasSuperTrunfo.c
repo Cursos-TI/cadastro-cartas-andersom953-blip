@@ -121,6 +121,21 @@ int main() {
     float PIBD4;
     int PontoD4;
 
+    char EstadoE1 = 'E';
+    char CodigoE1 = "E01";
+    char NomeE1[30];
+    int PopulaçãoE1;
+    float AreaE1;
+    float PIBE1;
+    int PontoE1;
+
+    char CodigoE2 = "E02";
+    char NomeE2[30];
+    int PopulaçãoE2;
+    float AreaE2;
+    float PIBE2; 
+    int PontoE2;
+
 
 
 
