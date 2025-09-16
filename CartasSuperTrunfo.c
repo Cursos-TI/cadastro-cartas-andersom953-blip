@@ -33,12 +33,10 @@ int main() {
     printf("Digite o PIB: ");
     scanf("%f", &PIB);
 
+    printf("Digite o número de Pontos Turísticos: ");
+    scanf ("%d", &Ponto);
+
     
-  
-  )
-
-  
-
 
   // Área para entrada de dados
 
