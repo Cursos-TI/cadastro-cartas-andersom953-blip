@@ -261,7 +261,7 @@ int main() {
     scanf("%f", &PIBA1);
 
     printf("Digite o número de Pontos Turísticos: ");
-    scanf ("%d", &PontoA1);
+    scanf("%d", &PontoA1);
 
     printf("\n--- Digite os dados da segunda carta ---\n");
 
@@ -274,9 +274,28 @@ int main() {
     printf("Digite a Área: ");
     scanf("%f", &AreaA2);
 
+    printf("Digite o PIB: ");
+    scanf("%f", &PIBA2);
+
     printf("Digite o número de Pontos Turísticos: ");
+    scanf("%d", &PontoA2);
 
     printf("\n--- Digite os dados da teceira carta ---\n");
+
+    printf("Digite o Nome da Cidade: ");
+    scanf("%s", &NomeA3);
+
+    printf("Digite a População: ");
+    scanf("%d", &PopulaçãoA3);
+
+    printf("Digite a Área: ");
+    scanf("%f", &AreaA3);
+
+    printf("Digite o PIB: ");
+    scanf("%f", &PIBA3);
+
+    printf("Digite o número de Pontos Turísticos: ");
+    scanf("%d", &PontoA3);
 
 
 
