@@ -317,9 +317,23 @@ int main() {
     printf("\n--- Estado A Concluido! ---\n");
 
     printf("\n--- Estado B ---\n");
+
     printf("\n--- Digite os dados da primeira carta ---\n");
 
+    printf("Digite o Nome da Cidade: ");
+    scanf("%s", &NomeB1);
 
+    printf("Digite a População: ");
+    scanf("%d", &PopulaçãoB1);
+
+    printf("Digite a Área: ");
+    scanf("%f", &AreaB1);
+
+    printf("Digite o PIB: ");
+    scanf("%f", &PIBB1);
+
+    printf("Digite o número de Pontos Turísticos: ");
+    scanf("%d", &PontoB1);
 
 
 
