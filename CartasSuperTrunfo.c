@@ -972,7 +972,43 @@ int main() {
     printf("PIB: %2.f bilhões de reais\n", PIBD4);
     printf("Número de Pontos Turísticos: %d", PontoD4);
 
+   printf("\n--- Estado E ---\n");
 
+    printf("\n--- Dados da Carta E01 ---\n");
+    printf("Estado: %c\n", EstadoE1);
+    printf("Código: %s\n", CodigoE1);
+    printf("Nome da Cidade: %s\n", NomeE1);
+    printf("População: %d\n", PopulaçãoE1);
+    printf("Área: %.2f km²\n", AreaE1);
+    printf("PIB: %2.f bilhões de reais\n", PIBE1);
+    printf("Número de Pontos Turísticos: %d", PontoE1);
+
+    printf("\n--- Dados da Carta E02 ---\n");
+    printf("Estado: %c\n", EstadoE1);
+    printf("Código: %s\n", CodigoE2);
+    printf("Nome da Cidade: %s\n", NomeE2);
+    printf("População: %d\n", PopulaçãoE2);
+    printf("Área: %.2f km²\n", AreaE2);
+    printf("PIB: %2.f bilhões de reais\n", PIBE2);
+    printf("Número de Pontos Turísticos: %d", PontoE2);
+
+    printf("\n--- Dados da Carta E03 ---\n");
+    printf("Estado: %c\n", EstadoE1);
+    printf("Código: %s\n", CodigoE3);
+    printf("Nome da Cidade: %s\n", NomeE3);
+    printf("População: %d\n", PopulaçãoE3);
+    printf("Área: %.2f km²\n", AreaE3);
+    printf("PIB: %2.f bilhões de reais\n", PIBE3);
+    printf("Número de Pontos Turísticos: %d", PontoE3);
+
+    printf("\n--- Dados da Carta E04 ---\n");
+    printf("Estado: %c\n", EstadoE1);
+    printf("Código: %s\n", CodigoE4);
+    printf("Nome da Cidade: %s\n", NomeE4);
+    printf("População: %d\n", PopulaçãoE4);
+    printf("Área: %.2f km²\n", AreaE4);
+    printf("PIB: %2.f bilhões de reais\n", PIBE4);
+    printf("Número de Pontos Turísticos: %d", PontoE4);
 
 
     
