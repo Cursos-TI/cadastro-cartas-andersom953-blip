@@ -107,7 +107,19 @@ int main() {
     float PIBD2;
     int PontoD2;
 
-    
+    char CodigoD3[4] = "D03";
+    char NomeD3[30];
+    int PopulaçãoD3;
+    float AreaD3;
+    float PIBD3;
+    int PontoD3;
+
+    char CodigoD4[4] = "D04";
+    char NomeD4[30];
+    int PopulaçãoD4;
+    float AreaD4;
+    float PIBD4;
+    int PontoD4;
 
 
 
