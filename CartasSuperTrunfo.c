@@ -12,7 +12,14 @@ int main() {
     float Area;
     float PIB;
     int Ponto;
+
+    printf("\n--- Agora digite os dados da primeira carta---\n");
+
+    printf("Digite o Estado (de A a H): ");
+    scanf("%s", &Estado);
     
+  
+
 
   // Área para entrada de dados
 
