@@ -249,7 +249,7 @@ int main() {
     printf("\n--- Digite os dados da primeira carta ---\n");
     
     printf("Digite o Nome da Cidade: ");
-    scanf("%s", &NomeA1);
+    scanf("%s", NomeA1);
 
     printf("Digite a População: ");
     scanf("%d", &PopulaçãoA1);
@@ -266,7 +266,7 @@ int main() {
     printf("\n--- Digite os dados da segunda carta ---\n");
 
     printf("Digite o Nome da Cidade: ");
-    scanf("%s", &NomeA2);
+    scanf("%s", NomeA2);
 
     printf("Digite a População: ");
     scanf("%d", &PopulaçãoA2);
@@ -283,7 +283,7 @@ int main() {
     printf("\n--- Digite os dados da teceira carta ---\n");
 
     printf("Digite o Nome da Cidade: ");
-    scanf("%s", &NomeA3);
+    scanf("%s", NomeA3);
 
     printf("Digite a População: ");
     scanf("%d", &PopulaçãoA3);
@@ -300,7 +300,7 @@ int main() {
     printf("\n--- Digite os dados da quarta carta ---\n");
 
     printf("Digite o Nome da Cidade: ");
-    scanf("%s", &NomeA4);
+    scanf("%s", NomeA4);
 
     printf("Digite a População: ");
     scanf("%d", &PopulaçãoA4);
@@ -321,7 +321,7 @@ int main() {
     printf("\n--- Digite os dados da primeira carta ---\n");
 
     printf("Digite o Nome da Cidade: ");
-    scanf("%s", &NomeB1);
+    scanf("%s", NomeB1);
 
     printf("Digite a População: ");
     scanf("%d", &PopulaçãoB1);
@@ -338,7 +338,7 @@ int main() {
     printf("\n--- Digite os dados da segunda carta ---\n");
 
     printf("Digite o Nome da Cidade: ");
-    scanf("%s", &NomeB2);
+    scanf("%s", NomeB2);
 
     printf("Digite a População: ");
     scanf("%d", &PopulaçãoB2);
@@ -355,7 +355,7 @@ int main() {
     printf("\n--- Digite os dados da terceira carta ---\n");
 
     printf("Digite o Nome da Cidade: ");
-    scanf("%s", &NomeB3);
+    scanf("%s", NomeB3);
 
     printf("Digite a População: ");
     scanf("%d", &PopulaçãoB3);
@@ -372,7 +372,7 @@ int main() {
     printf("\n--- Digite os dados da quarta carta ---\n");
 
     printf("Digite o Nome da Cidade: ");
-    scanf("%s", &NomeB4);
+    scanf("%s", NomeB4);
 
     printf("Digite a População: ");
     scanf("%d", &PopulaçãoB4);
@@ -393,7 +393,7 @@ int main() {
     printf("\n--- Digite os dados da primeira carta ---\n");
 
     printf("Digite o Nome da Cidade: ");
-    scanf("%s", &NomeC1);
+    scanf("%s", NomeC1);
 
     printf("Digite a População: ");
     scanf("%d", &PopulaçãoC1);
@@ -410,7 +410,7 @@ int main() {
     printf("\n--- Digite os dados da segunda carta ---\n");
 
     printf("Digite o Nome da Cidade: ");
-    scanf("%s", &NomeC2);
+    scanf("%s", NomeC2);
 
     printf("Digite a População: ");
     scanf("%d", &PopulaçãoC2);
@@ -427,7 +427,7 @@ int main() {
     printf("\n--- Digite os dados da terceira carta ---\n");
 
     printf("Digite o Nome da Cidade: ");
-    scanf("%s", &NomeC3);
+    scanf("%s", NomeC3);
 
     printf("Digite a População: ");
     scanf("%d", &PopulaçãoC3);
@@ -444,7 +444,7 @@ int main() {
     printf("\n--- Digite os dados da quarta carta ---\n");
 
     printf("Digite o Nome da Cidade: ");
-    scanf("%s", &NomeC4);
+    scanf("%s", NomeC4);
 
     printf("Digite a População: ");
     scanf("%d", &PopulaçãoC4);
@@ -465,7 +465,7 @@ int main() {
     printf("\n--- Digite os dados da primeira carta ---\n");
 
     printf("Digite o Nome da Cidade: ");
-    scanf("%s", &NomeD1);
+    scanf("%s", NomeD1);
 
     printf("Digite a População: ");
     scanf("%d", &PopulaçãoD1);
@@ -482,7 +482,7 @@ int main() {
     printf("\n--- Digite os dados da segunda carta ---\n");
 
     printf("Digite o Nome da Cidade: ");
-    scanf("%s", &NomeD2);
+    scanf("%s", NomeD2);
 
     printf("Digite a População: ");
     scanf("%d", &PopulaçãoD2);
@@ -499,7 +499,7 @@ int main() {
     printf("\n--- Digite os dados da terceira carta ---\n");
 
     printf("Digite o Nome da Cidade: ");
-    scanf("%s", &NomeD3);
+    scanf("%s", NomeD3);
 
     printf("Digite a População: ");
     scanf("%d", &PopulaçãoD3);
@@ -516,7 +516,7 @@ int main() {
     printf("\n--- Digite os dados da quarta carta ---\n");
 
     printf("Digite o Nome da Cidade: ");
-    scanf("%s", &NomeD4);
+    scanf("%s", NomeD4);
 
     printf("Digite a População: ");
     scanf("%d", &PopulaçãoD4);
@@ -537,7 +537,7 @@ int main() {
     printf("\n--- Digite os dados da primeira carta ---\n");
 
     printf("Digite o Nome da Cidade: ");
-    scanf("%s", &NomeE1);
+    scanf("%s", NomeE1);
 
     printf("Digite a População: ");
     scanf("%d", &PopulaçãoE1);
@@ -554,7 +554,7 @@ int main() {
     printf("\n--- Digite os dados da segunda carta ---\n");
 
     printf("Digite o Nome da Cidade: ");
-    scanf("%s", &NomeE2);
+    scanf("%s", NomeE2);
 
     printf("Digite a População: ");
     scanf("%d", &PopulaçãoE2);
@@ -571,7 +571,7 @@ int main() {
     printf("\n--- Digite os dados da terceira carta ---\n");
 
     printf("Digite o Nome da Cidade: ");
-    scanf("%s", &NomeE3);
+    scanf("%s", NomeE3);
 
     printf("Digite a População: ");
     scanf("%d", &PopulaçãoE3);
@@ -588,7 +588,7 @@ int main() {
     printf("\n--- Digite os dados da quarta carta ---\n");
 
     printf("Digite o Nome da Cidade: ");
-    scanf("%s", &NomeE4);
+    scanf("%s", NomeE4);
 
     printf("Digite a População: ");
     scanf("%d", &PopulaçãoE4);
@@ -609,7 +609,7 @@ int main() {
     printf("\n--- Digite os dados da primeira carta ---\n");
 
     printf("Digite o Nome da Cidade: ");
-    scanf("%s", &NomeF1);
+    scanf("%s", NomeF1);
 
     printf("Digite a População: ");
     scanf("%d", &PopulaçãoF1);
@@ -626,7 +626,7 @@ int main() {
     printf("\n--- Digite os dados da segunda carta ---\n");
 
     printf("Digite o Nome da Cidade: ");
-    scanf("%s", &NomeF2);
+    scanf("%s", NomeF2);
 
     printf("Digite a População: ");
     scanf("%d", &PopulaçãoF2);
@@ -643,7 +643,7 @@ int main() {
     printf("\n--- Digite os dados da terceira carta ---\n");
 
     printf("Digite o Nome da Cidade: ");
-    scanf("%s", &NomeF3);
+    scanf("%s", NomeF3);
 
     printf("Digite a População: ");
     scanf("%d", &PopulaçãoF3);
@@ -660,7 +660,7 @@ int main() {
     printf("\n--- Digite os dados da quarta carta ---\n");
 
     printf("Digite o Nome da Cidade: ");
-    scanf("%s", &NomeF4);
+    scanf("%s", NomeF4);
 
     printf("Digite a População: ");
     scanf("%d", &PopulaçãoF4);
@@ -681,7 +681,7 @@ int main() {
     printf("\n--- Digite os dados da primeira carta ---\n");
 
     printf("Digite o Nome da Cidade: ");
-    scanf("%s", &NomeG1);
+    scanf("%s", NomeG1);
 
     printf("Digite a População: ");
     scanf("%d", &PopulaçãoG1);
@@ -698,7 +698,7 @@ int main() {
     printf("\n--- Digite os dados da segunda carta ---\n");
 
     printf("Digite o Nome da Cidade: ");
-    scanf("%s", &NomeG2);
+    scanf("%s", NomeG2);
 
     printf("Digite a População: ");
     scanf("%d", &PopulaçãoG2);
@@ -715,7 +715,7 @@ int main() {
     printf("\n--- Digite os dados da terceira carta ---\n");
 
     printf("Digite o Nome da Cidade: ");
-    scanf("%s", &NomeG3);
+    scanf("%s", NomeG3);
 
     printf("Digite a População: ");
     scanf("%d", &PopulaçãoG3);
@@ -732,7 +732,7 @@ int main() {
     printf("\n--- Digite os dados da quarta carta ---\n");
 
     printf("Digite o Nome da Cidade: ");
-    scanf("%s", &NomeG4);
+    scanf("%s", NomeG4);
 
     printf("Digite a População: ");
     scanf("%d", &PopulaçãoG4);
@@ -753,7 +753,7 @@ int main() {
     printf("\n--- Digite os dados da primeira carta ---\n");
 
     printf("Digite o Nome da Cidade: ");
-    scanf("%s", &NomeH1);
+    scanf("%s", NomeH1);
 
     printf("Digite a População: ");
     scanf("%d", &PopulaçãoH1);
@@ -770,7 +770,7 @@ int main() {
     printf("\n--- Digite os dados da segunda carta ---\n");
 
     printf("Digite o Nome da Cidade: ");
-    scanf("%s", &NomeH2);
+    scanf("%s", NomeH2);
 
     printf("Digite a População: ");
     scanf("%d", &PopulaçãoH2);
@@ -787,7 +787,7 @@ int main() {
     printf("\n--- Digite os dados da terceira carta ---\n");
 
     printf("Digite o Nome da Cidade: ");
-    scanf("%s", &NomeH3);
+    scanf("%s", NomeH3);
 
     printf("Digite a População: ");
     scanf("%d", &PopulaçãoH3);
@@ -804,7 +804,7 @@ int main() {
     printf("\n--- Digite os dados da quarta carta ---\n");
 
     printf("Digite o Nome da Cidade: ");
-    scanf("%s", &NomeH4);
+    scanf("%s", NomeH4);
 
     printf("Digite a População: ");
     scanf("%d", &PopulaçãoH4);
@@ -820,7 +820,7 @@ int main() {
 
     printf("\n--- Estado H Concluido! ---\n");
 
-    printf("\n--- Informações das Cartas ---\n")
+    printf("\n--- Informações das Cartas ---\n");
 
     printf("\n--- Estado A ---\n");
     
@@ -1068,7 +1068,7 @@ int main() {
     printf("População: %d\n", PopulaçãoG2);
     printf("Área: %.2f km²\n", AreaG2);
     printf("PIB: %2.f bilhões de reais\n", PIBG2);
-    printf("Número de Pontos Turísticos: %d/n", PontoG2);
+    printf("Número de Pontos Turísticos: %d\n", PontoG2);
 
     printf("\n--- Dados da Carta G03 ---\n");
     printf("Estado: %c\n", EstadoG);
