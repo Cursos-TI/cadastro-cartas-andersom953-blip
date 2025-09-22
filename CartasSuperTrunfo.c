@@ -14,6 +14,8 @@ int main() {
     float AreaA1;
     float PIBA1;
     int PontoA1;
+    float DensidadeA1;
+    float PIBCapA1;
 
     char CodigoA2[4] = "A02";
     char NomeA2[30];
@@ -21,6 +23,8 @@ int main() {
     float AreaA2;
     float PIBA2;
     int PontoA2;
+    float DensidadeA2;
+    float PIBCapA2;
 
     char CodigoA3[4] = "A03";
     char NomeA3[30];
@@ -28,6 +32,8 @@ int main() {
     float AreaA3;
     float PIBA3;
     int PontoA3;
+    float DensidadeA3;
+    float PIBCapA3;
 
     char CodigoA4[4] = "A04";
     char NomeA4[30];
@@ -35,6 +41,8 @@ int main() {
     float AreaA4;
     float PIBA4;
     int PontoA4;
+    float DensidadeA4;
+    float PIBCapA4;
 
     char EstadoB = 'B';
 
@@ -44,6 +52,8 @@ int main() {
     float AreaB1;
     float PIBB1;
     int PontoB1;
+    float DensidadeB1;
+    float PIBCapB1;
 
     char CodigoB2[4] = "B02";
     char NomeB2[30];
@@ -51,6 +61,8 @@ int main() {
     float AreaB2;
     float PIBB2;
     int PontoB2;
+    float DensidadeB2;
+    float PIBCapB2;
 
     char CodigoB3[4] = "B03";
     char NomeB3[30];
@@ -58,6 +70,8 @@ int main() {
     float AreaB3;
     float PIBB3;
     int PontoB3;
+    float DensidadeB3;
+    float PIBCapB3;
 
     char CodigoB4[4] = "B04";
     char NomeB4[30];
@@ -65,6 +79,8 @@ int main() {
     float AreaB4;
     float PIBB4;
     int PontoB4;
+    float DensidadeB4;
+    float PIBCapB4;
 
     char EstadoC = 'C';
 
@@ -74,6 +90,8 @@ int main() {
     float AreaC1;
     float PIBC1;
     int PontoC1;
+    float DensidadeC1;
+    float PIBCapC1;
 
     char CodigoC2[4] = "C02";
     char NomeC2[30];
@@ -81,6 +99,8 @@ int main() {
     float AreaC2;
     float PIBC2;
     int PontoC2;
+    float DensidadeC2;
+    float PIBCapC2;
 
     char CodigoC3[4] = "C03";
     char NomeC3[30];
@@ -88,6 +108,8 @@ int main() {
     float AreaC3;
     float PIBC3;
     int PontoC3;
+    float DensidadeC3;
+    float PIBCapC3;
 
     char CodigoC4[4] = "C04";
     char NomeC4[30];
@@ -95,6 +117,8 @@ int main() {
     float AreaC4;
     float PIBC4;
     int PontoC4;
+    float DensidadeC4;
+    float PIBCapC4;
 
     char EstadoD = 'D';
 
@@ -104,6 +128,8 @@ int main() {
     float AreaD1;
     float PIBD1;
     int PontoD1;
+    float DensidadeD1;
+    float PIBCapD1;
 
     char CodigoD2[4] = "D02";
     char NomeD2[30];
@@ -111,6 +137,8 @@ int main() {
     float AreaD2;
     float PIBD2;
     int PontoD2;
+    float DensidadeD2;
+    float PIBCapD2;
 
     char CodigoD3[4] = "D03";
     char NomeD3[30];
@@ -118,6 +146,8 @@ int main() {
     float AreaD3;
     float PIBD3;
     int PontoD3;
+    float DensidadeD3;
+    float PIBCapD3;
 
     char CodigoD4[4] = "D04";
     char NomeD4[30];
@@ -125,6 +155,8 @@ int main() {
     float AreaD4;
     float PIBD4;
     int PontoD4;
+    float DensidadeD4;
+    float PIBCapD4;
 
     char EstadoE = 'E';
 
@@ -134,6 +166,8 @@ int main() {
     float AreaE1;
     float PIBE1;
     int PontoE1;
+    float DensidadeE1;
+    float PIBCapE1;
 
     char CodigoE2[4] = "E02";
     char NomeE2[30];
@@ -141,6 +175,8 @@ int main() {
     float AreaE2;
     float PIBE2; 
     int PontoE2;
+    float DensidadeE2;
+    float PIBCapE2;
 
     char CodigoE3[4] = "E03";
     char NomeE3[30];
@@ -148,6 +184,8 @@ int main() {
     float AreaE3;
     float PIBE3;
     int PontoE3;
+    float DensidadeE3;
+    float PIBCapE3;
 
     char CodigoE4[4] = "E04";
     char NomeE4[30];
@@ -155,6 +193,8 @@ int main() {
     float AreaE4;
     float PIBE4;
     int PontoE4;
+    float DensidadeE4;
+    float PIBCapE4;
 
     char EstadoF = 'F';
 
@@ -164,6 +204,8 @@ int main() {
     float AreaF1;
     float PIBF1;
     int PontoF1;
+    float DensidadeF1;
+    float PIBCapF1;
 
     char CodigoF2[4] = "F02";
     char NomeF2[30];
@@ -171,6 +213,8 @@ int main() {
     float AreaF2;
     float PIBF2; 
     int PontoF2;
+    float DensidadeF2;
+    float PIBCapF2;
 
     char CodigoF3[4] = "F03";
     char NomeF3[30];
@@ -178,6 +222,8 @@ int main() {
     float AreaF3;
     float PIBF3;
     int PontoF3;
+    float DensidadeF3;
+    float PIBCapF3;
 
     char CodigoF4[4] = "F04";
     char NomeF4[30];
@@ -185,6 +231,8 @@ int main() {
     float AreaF4;
     float PIBF4;
     int PontoF4;
+    float DensidadeF4;
+    float PIBCapF4;
 
     char EstadoG = 'G';
 
@@ -194,6 +242,8 @@ int main() {
     float AreaG1;
     float PIBG1;
     int PontoG1;
+    float DensidadeG1;
+    float PIBCapG1;
 
     char CodigoG2[4] = "G02";
     char NomeG2[30];
@@ -201,6 +251,8 @@ int main() {
     float AreaG2;
     float PIBG2; 
     int PontoG2;
+    float DensidadeG2;
+    float PIBCapG2;
 
     char CodigoG3[4] = "G03";
     char NomeG3[30];
@@ -208,6 +260,8 @@ int main() {
     float AreaG3;
     float PIBG3;
     int PontoG3;
+    float DensidadeG3;
+    float PIBCapG3;
 
     char CodigoG4[4] = "G04";
     char NomeG4[30];
@@ -215,6 +269,8 @@ int main() {
     float AreaG4;
     float PIBG4;
     int PontoG4;
+    float DensidadeG4;
+    float PIBCapG4;
 
     char EstadoH = 'H';
 
@@ -224,6 +280,8 @@ int main() {
     float AreaH1;
     float PIBH1;
     int PontoH1;
+    float DensidadeH1;
+    float PIBCapH1;
 
     char CodigoH2[4] = "H02";
     char NomeH2[30];
@@ -231,6 +289,8 @@ int main() {
     float AreaH2;
     float PIBH2;
     int PontoH2;
+    float DensidadeH2;
+    float PIBCapH2;
 
     char CodigoH3[4] = "H03";
     char NomeH3[30];
@@ -238,6 +298,8 @@ int main() {
     float AreaH3;
     float PIBH3;
     int PontoH3;
+    float DensidadeH3;
+    float PIBCapH3;
 
     char CodigoH4[4] = "H04";
     char NomeH4[30];
@@ -245,6 +307,8 @@ int main() {
     float AreaH4;
     float PIBH4;
     int PontoH4;
+    float DensidadeH4;
+    float PIBCapH4;
 
     //entrada de dados das cartas inseridas pelo usuário
     //printf e scanf
@@ -822,6 +886,12 @@ int main() {
     scanf("%d", &PontoH4);
 
     printf("\n--- Estado H Concluido! ---\n");
+
+
+    //Densidade  = População / Area
+
+    //PIBCap = PIB / População
+
 
     //saida de dados das informações inseridas pelo usuário
     printf("\n--- Informações das Cartas ---\n");
