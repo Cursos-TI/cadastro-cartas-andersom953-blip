@@ -6,6 +6,7 @@
 
 int main() {
 
+    //criação das variaveis
     char EstadoA = 'A';
     char CodigoA1[4] = "A01";
     char NomeA1[30];
@@ -245,6 +246,8 @@ int main() {
     float PIBH4;
     int PontoH4;
 
+    //entrada de dados das cartas inseridas pelo usuário
+    //printf e scanf
     printf("\n--- Estado A ---\n");
     printf("\n--- Digite os dados da primeira carta ---\n");
     
@@ -820,6 +823,7 @@ int main() {
 
     printf("\n--- Estado H Concluido! ---\n");
 
+    //saida de dados das informações inseridas pelo usuário
     printf("\n--- Informações das Cartas ---\n");
 
     printf("\n--- Estado A ---\n");
