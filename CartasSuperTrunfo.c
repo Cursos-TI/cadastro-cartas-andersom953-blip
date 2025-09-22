@@ -887,10 +887,92 @@ int main() {
 
     printf("\n--- Estado H Concluido! ---\n");
 
+    //Operadores Matematicos
+   
+    //Densidade  = População / Area    
+    DensidadeA1 = PopulaçãoA1 / AreaA1;
+    DensidadeA2 = PopulaçãoA2 / AreaA2;
+    DensidadeA3 = PopulaçãoA3 / AreaA3;
+    DensidadeA4 = PopulaçãoA4 / AreaA4;
 
-    //Densidade  = População / Area
+    DensidadeB1 = PopulaçãoB1 / AreaB1;
+    DensidadeB2 = PopulaçãoB2 / AreaB2;
+    DensidadeB3 = PopulaçãoB3 / AreaB3;
+    DensidadeB4 = PopulaçãoB4 / AreaB4;
+    
+    DensidadeC1 = PopulaçãoC1 / AreaC1;
+    DensidadeC2 = PopulaçãoC2 / AreaC2;
+    DensidadeC3 = PopulaçãoC3 / AreaC3;
+    DensidadeC4 = PopulaçãoC4 / AreaC4;
+
+    DensidadeD1 = PopulaçãoD1 / AreaD1;
+    DensidadeD2 = PopulaçãoD2 / AreaD2;
+    DensidadeD3 = PopulaçãoD3 / AreaD3;
+    DensidadeD4 = PopulaçãoD4 / AreaD4;
+
+    DensidadeE1 = PopulaçãoE1 / AreaE1;
+    DensidadeE2 = PopulaçãoE2 / AreaE2;
+    DensidadeE3 = PopulaçãoE3 / AreaE3;
+    DensidadeE4 = PopulaçãoE4 / AreaE4;
+    
+    DensidadeF1 = PopulaçãoF1 / AreaF1;
+    DensidadeF2 = PopulaçãoF2 / AreaF2;
+    DensidadeF3 = PopulaçãoF3 / AreaF3;
+    DensidadeF4 = PopulaçãoF4 / AreaF4;
+
+    DensidadeG1 = PopulaçãoG1 / AreaG1;
+    DensidadeG2 = PopulaçãoG2 / AreaG2;
+    DensidadeG3 = PopulaçãoG3 / AreaG3;
+    DensidadeG4 = PopulaçãoG4 / AreaG4;
+
+    DensidadeH1 = PopulaçãoH1 / AreaH1;
+    DensidadeH2 = PopulaçãoH2 / AreaH2;
+    DensidadeH3 = PopulaçãoH3 / AreaH3;
+    DensidadeH4 = PopulaçãoH4 / AreaH4;
 
     //PIBCap = PIB / População
+    PIBCapA1 = PIBA1 / PopulaçãoA1;
+    PIBCapA2 = PIBA2 / PopulaçãoA2;
+    PIBCapA3 = PIBA3 / PopulaçãoA3;
+    PIBCapA4 = PIBA4 / PopulaçãoA4;
+
+    PIBCapB1 = PIBB1 / PopulaçãoB1;
+    PIBCapB2 = PIBB2 / PopulaçãoB2;
+    PIBCapB3 = PIBB3 / PopulaçãoB3;
+    PIBCapB4 = PIBB4 / PopulaçãoB4;
+
+    PIBCapC1 = PIBC1 / PopulaçãoC1;
+    PIBCapC2 = PIBC2 / PopulaçãoC2;
+    PIBCapC3 = PIBC3 / PopulaçãoC3;
+    PIBCapC4 = PIBC4 / PopulaçãoC4;
+
+    PIBCapD1 = PIBD1 / PopulaçãoD1;
+    PIBCapD2 = PIBD2 / PopulaçãoD2;
+    PIBCapD3 = PIBD3 / PopulaçãoD3;
+    PIBCapD4 = PIBD4 / PopulaçãoD4;
+
+    PIBCapE1 = PIBE1 / PopulaçãoE1;
+    PIBCapE2 = PIBE2 / PopulaçãoE2;
+    PIBCapE3 = PIBE3 / PopulaçãoE3;
+    PIBCapE4 = PIBE4 / PopulaçãoE4;
+
+    PIBCapF1 = PIBF1 / PopulaçãoF1;
+    PIBCapF2 = PIBF2 / PopulaçãoF2;
+    PIBCapF3 = PIBF3 / PopulaçãoF3;
+    PIBCapF4 = PIBF4 / PopulaçãoF4;
+
+    PIBCapG1 = PIBG1 / PopulaçãoG1;
+    PIBCapG2 = PIBG2 / PopulaçãoG2;
+    PIBCapG3 = PIBG3 / PopulaçãoG3;
+    PIBCapG4 = PIBG4 / PopulaçãoG4;
+
+    PIBCapH1 = PIBH1 / PopulaçãoH1;
+    PIBCapH2 = PIBH2 / PopulaçãoH2;
+    PIBCapH3 = PIBH3 / PopulaçãoH3;
+    PIBCapH4 = PIBH4 / PopulaçãoH4;
+
+
+
 
 
     //saida de dados das informações inseridas pelo usuário
